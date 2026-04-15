@@ -1,4 +1,3 @@
-# refactor-realm-docs
 # Refactor Realm — Documentation Hub
 
 Central documentation for all Refactor Realm products, including:
